@@ -1,0 +1,25 @@
+{
+  "Loader":[ 
+    {
+      "object": [
+        "inner one",
+        "inner two",
+        "inner three"
+      ]
+    }
+  ],
+  "room":[
+    {
+      "wallYRot":"1",
+      "wallXPos":"0",
+      "wallZPos":"-10"
+      
+    },
+    {
+
+      "wallYRot":"2",
+      "wallXPos":"-10",
+      "wallZPos":"0"
+    }
+    ]
+}
